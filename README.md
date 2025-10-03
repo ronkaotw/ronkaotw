@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi I'm Aaron Kao 
 
-<!--
-**ronkaotw/ronkaotw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Engineer / Frontend Engineer / YouTube Editor
 
-Here are some ideas to get you started:
+## 經歷
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 2019–2023 實習 ｜ 新創公司
+- 2021–2023 影片剪輯師 ｜ YouTuber
+- 2023 製播組 ｜ [COSCUP](https://coscup.org/)
+- 2023 製播組 ｜ [SITCON](http://sitcon.org/)
+- 2024 製播組 ｜ [SITCON](http://sitcon.org/)
+
+## 聯絡方式
+
+- [網站](https://ronkao.tw)
+- [LinkedIn](https://www.linkedin.com/in/ronkaotw/)
+- [GitHub](https://github.com/ronkaotw)
+- [YouTube](https://www.youtube.com/playlist?list=PLfj9AELIIYJdFDqpXjyJf_GccS-myHJHv)
+- [Email](aaron.studio.tw@gmail.com)
