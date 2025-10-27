@@ -14,4 +14,4 @@ Backend Engineer / Frontend Engineer / YouTube Editor
 - [網站](https://ronkao.tw)
 - [LinkedIn](https://www.linkedin.com/in/ronkaotw/)
 - [YouTube](https://www.youtube.com/playlist?list=PLfj9AELIIYJdFDqpXjyJf_GccS-myHJHv)
-- [Email](mailto:aaron.studio.tw@gmail.com)
+- [Email](mailto:contact@ronkao.tw)
