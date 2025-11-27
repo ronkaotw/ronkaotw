@@ -1,6 +1,6 @@
 ## Hi I'm Aaron Kao 
 
-Backend Engineer / Frontend Engineer / YouTube Editor
+Fullstack Engineer
 
 ## 經歷
 
