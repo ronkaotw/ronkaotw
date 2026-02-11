@@ -13,3 +13,7 @@ Backend Engineer
 
 - [網站](https://ronkao.tw)
 - [Email](mailto:contact@ronkao.tw)
+
+## 備註
+
+Pinned 出來的專案就是我想要給各位 HR 以及技術大佬看的，就不用再特別詢問囉！
