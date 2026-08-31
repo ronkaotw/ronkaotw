@@ -5,8 +5,6 @@ Backend Engineer
 ## 經歷
 
 - 2019–2023 矽塔資訊｜實習 
-- 2023 製播組 ｜ [COSCUP](https://coscup.org/)
-- 2024 製播組 ｜ [SITCON](http://sitcon.org/)
 
 ## 聯絡方式
 
