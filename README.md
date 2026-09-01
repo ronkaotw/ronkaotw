@@ -2,11 +2,11 @@
 
 Backend Engineer
 
-## 經歷
+## Experience
 
-- 2019–2023 矽塔資訊｜實習 
+- 2019–2023 Sitatech Information Services, Intern
+  
+## Contact Me
 
-## 聯絡方式
-
-- [網站](https://ronkao.tw)
+- [Website](https://ronkao.tw)
 - [Email](mailto:contact@ronkao.tw)
