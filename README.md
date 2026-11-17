@@ -1,6 +1,6 @@
 ## Hi I'm Aaron Kao 
 
-Backend Engineer
+Fullstack Engineer Intern
 
 ## Experience
 
