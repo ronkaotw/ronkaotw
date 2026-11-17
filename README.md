@@ -4,7 +4,7 @@ Backend Engineer
 
 ## Experience
 
-- 2019–2023 Sitatech Information Services, Intern
+- 2019–2021 Sitatech Information Services, Intern
   
 ## Contact Me
 
